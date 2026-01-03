@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ロックンロールシネマ",
+  "base_artist": "ポップしなないで",
+  "createdAt": "2026-01-03T17:08:57.749979Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ロックンロールシネマ",
+      "artist": "ポップしなないで",
+      "has_synced": false,
+      "path": "select/pl_01_ロックンロールシネマ_ポップしなないで.txt"
+    }
+  ]
+}
